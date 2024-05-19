@@ -1,3 +1,7 @@
+"""
+This is a simple program to test fast api framework
+"""
+
 from fastapi import FastAPI
 
 app = FastAPI()
